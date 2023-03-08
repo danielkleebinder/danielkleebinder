@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hey there. Nice to meet you! 👋
 
-<!--
-**danielkleebinder/danielkleebinder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+... and thank you for visiting my GitHub page! May I introduce myself? My name is **Daniel Kleebinder** and I am a _Software Engineer_ and _Architect_ who is very much excited to build the _Web_ of tomorrow using cutting edge technologies.
 
-Here are some ideas to get you started:
+## About me 👨‍💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My love for software engineering started while studying informatics at [HTL St. Pölten](https://www.htlstp.ac.at/). Afterwards, I completed my bachelor's degree at [FH Technikum Wien](https://www.technikum-wien.at/) in 2020 and am now a proud alumni of [TU Wien](https://www.tuwien.at/) where I completed my [master's studies in software engineering](https://informatics.tuwien.ac.at/master/software-engineering-and-internet-computing/) at the beginning of 2023.
+
+### Programming Languages 📚
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Solidity](https://img.shields.io/badge/-Solidity-383838?logo=solidity&logoColor=white&style=for-the-badge) ![GO](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
+### Frameworks 💻
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white&style=for-the-badge) ![Cordova](https://img.shields.io/badge/Cordova-35434F?style=for-the-badge&logo=apache-cordova&logoColor=E8E8E8) ![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=Capacitor&logoColor=white) ![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+
+### Databases ⚡
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white) ![Elastic Search](https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### Further Skills & Tools 🚀
+![Docker](https://img.shields.io/badge/-Docker-099CEC?logo=docker&logoColor=white&style=for-the-badge) ![Atlassian Suite](https://img.shields.io/badge/-Atlassian%20Suite-0052CC?logo=atlassian&logoColor=white&style=for-the-badge) ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/-GitLab-E24329?logo=gitlab&logoColor=white&style=for-the-badge) ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white) ![Balsamiq](https://img.shields.io/badge/Balsamiq-5C5543?style=for-the-badge&logo=balsamiq&logoColor=white) ![draw.io](https://img.shields.io/badge/draw.io-3C3C3D?style=for-the-badge&logo=draw.io&logoColor=white) ![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
