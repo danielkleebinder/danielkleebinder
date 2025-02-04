@@ -4,4 +4,4 @@
 
 ## About me 👨‍💻
 
-My love for software engineering started while studying informatics at [HTL St. Pölten](https://www.htlstp.ac.at/). Afterwards, I completed my bachelor's degree at [FH Technikum Wien](https://www.technikum-wien.at/) in 2020 and am now a proud alumni of [TU Wien](https://www.tuwien.at/) where I completed my [master's studies in software engineering](https://informatics.tuwien.ac.at/master/software-engineering-and-internet-computing/) at the beginning of 2023.
+My love for software engineering emerged during my studies of informatics at [HTL St. Pölten](https://www.htlstp.ac.at/). Afterwards, I completed my bachelor's degree at [FH Technikum Wien](https://www.technikum-wien.at/) in 2020 and am now a proud alumni of [TU Wien](https://www.tuwien.at/) where I completed my [master's studies in software engineering](https://informatics.tuwien.ac.at/master/software-engineering-and-internet-computing/) at the beginning of 2023.
